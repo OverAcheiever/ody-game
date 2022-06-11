@@ -11,9 +11,9 @@ const Home: NextPage = () => {
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Header />
+      {/* <Header /> */}
       <Hero />
-      <Nft />
+      {/* <Nft /> */}
     </div>
   )
 }
